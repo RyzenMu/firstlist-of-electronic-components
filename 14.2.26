@@ -1,0 +1,336 @@
+1.smart plug for a Bajaj fan/heater
+2.triac motor controller / dimmer 4000 watts with digital reading -1
+3.life saviour PRCD
+4. high voltage and low voltage cutoff with current cut-off
+5. cutting player and nose player(2)
+6. lens with helping hands
+7. 6amps with jet box minimum 8 socket
+8. triac - 200 watts dimmer for light
+9. high current diode 16 amps 2nos one foreach stove
+10. triac - 500 watts dimmer for Bajaj fan
+11. 3-pin socket for Bajaj 16 amps big pin to small pin converter
+12. good tester with white light / clean light - 2 nos
+13. electric and thermal gloves -- electrical safety equipments
+14. plastic box to place the circuit board - big size -- 2
+15. crocodile clips -2
+16. jumper wires -10
+17. bread board -2
+18. waste electronic parts
+19. switch -- small - 5
+20. switch big -5
+21. 9 volt battery - 2
+22. 9v battery connector -2
+23. 555 timer ic -2
+24. various leds
+25. lead wires - 20
+26. various resistors / potentiometer -2
+27. various capacitors
+28. various inductors
+29. various transformers
+30. variable resistors small
+31. variable resistors big
+32. small motor -2
+33. coil
+34. heat sensor -2 
+35. fuse -10
+36. various transistors
+37. various mosfets
+38.  various diodes
+39. photo diodes
+40. toggle switch
+41. relay switch
+42. screw terminal
+43. Dip 8 pin 2
+44. voltage regulator like transistors
+45. Mutlimeter with oscillsope and capacitance
+46. clampmeter
+47. infrared thermometer
+48. Optocoupler MOC3021, MOC3063
+49. buck conveter
+50. boost converter
+51. bridge rectifier
+52. MOV ( Metal oxide varistor)
+53. 100 ohm resistor
+54. 0.1uf x 2 capacitor
+55. (Zener diode)
+56. NTC Thermister
+57. stand offs - pcb spacers
+58. heat sink tubes
+59. soldering iron
+60. flux
+61.solder wire
+62. desoldering pump
+63. wick
+64. current transformer
+65. mob
+66. thick wires 16 amps
+67. thermal fuse
+68. thermostat
+69. 16 amps switch
+70. 16 amps fuse holder
+71. heat resistant silicone wires
+72. heat sink and cooling fan
+73. oscilloscope
+74. rccb switch
+75. Lock for house
+76. Keyboard and mouse
+77. Mirror Big for hair cutting
+78. insta  debit card from airtel or fiino payment bank
+79. clock with alaram
+80. sun glass
+81. stitching machine -- dress
+82. hdmi- mini hdmi adapter
+83. pan of small various sizes
+84. iem in ear monitor
+85. magnetic type c adapter two 4k, thunderbolt, video out, 100 watts
+86. weigh scale
+87. KVM Switch
+88. portronics 13 in 1
+89. Soldering kit
+90. igbt
+91. Linux hdmi adapter
+92. creative blaster g5 dac
+93. complete soldering kit
+94. neon bulb
+95. Isolation transformer (1:1, ≥2–3 kVA)
+96. MCB (C-curve) – 6A, 10A, 16A
+97. DC fuse holders (automotive blade type)
+98. Earth leakage tester
+99. Fire extinguisher (ABC type)
+100. High-temperature Kapton tape
+101. Silicone thermal paste
+102.Battery BMS (with temp + current protection)
+103. Battery terminal lugs (copper)
+104. Pure sine wave inverter driver board (or SPWM module)
+105. High current shunt resistor
+106. 
+🔋 UPS-SPECIFIC (YOU’RE MISSING THESE)
+
+Very important for a real UPS (not just inverter):
+
+Deep-cycle battery (Lead-acid or LiFePO4)
+
+Battery balancer (if lithium)
+
+Battery BMS (with temp + current protection)
+
+High-current DC contactor
+
+Battery terminal lugs (copper)
+
+Battery voltage & current display meter
+
+Pure sine wave inverter driver board (or SPWM module)
+
+SG3525 / TL494 IC
+
+Gate driver IC (IR2110 / IRS2186 type)
+
+Snubber networks (RC + RCD)
+
+High current shunt resistor
+
+Pre-charge resistor circuit
+
+Soft-start module
+
+🔥 INDUCTION STOVE SPECIFIC (VERY IMPORTANT)
+
+Induction stoves are not dimmer-based, so these are missing:
+
+Induction work coil (litz wire coil)
+
+Ferrite core plates
+
+Series resonant polypropylene capacitors (MKP, 1–2kV)
+
+High-frequency current transformer
+
+IGBT gate resistors (non-inductive)
+
+Gate driver transformer
+
+High-speed diode (UF / FR type)
+
+EMI filter module (AC input)
+
+Common-mode choke
+
+NTC inrush current limiter (big size)
+
+Thermal pads for IGBT
+
+Copper bus bars
+
+Glass-fiber PCB (FR-4, ≥2oz copper)
+
+⚠️ Triac dimmers DO NOT WORK for induction heaters.
+
+You listed “various”, but these matter:
+
+Gate resistors (5Ω–47Ω, 1W)
+
+Power resistors (5W–50W)
+
+Film capacitors (polypropylene only)
+
+TVS diodes
+
+Schottky diodes
+
+Hall-effect current sensors (ACS758 type)
+
+Temperature IC sensors (DS18B20 / LM35)
+
+Gemini
+Sign in
+
+I HAVE A LIST FOR MAKING INDUCTION STOVE AND UPS MENTION ANY MISSING 1.smart plug for a Bajaj fan/heater 2.triac motor controller / dimmer 4000 watts with digital reading -1 3.life saviour PRCD 4. high voltage and low voltage cutoff with current cut-off 5. cutting player and nose player(2) 6. lens with helping hands 7. 6amps with jet box minimum 8 socket 8. triac - 200 watts dimmer for light 9. high current diode 16 amps 2nos one foreach stove 10. triac - 500 watts dimmer for Bajaj fan 11. 3-pin socket for Bajaj 16 amps big pin to small pin converter 12. good tester with white light / clean light - 2 nos 13. electric and thermal gloves -- electrical safety equipments 14. plastic box to place the circuit board - big size -- 2 15. crocodile clips -2 16. jumper wires -10 17. bread board -2 18. waste electronic parts 19. switch -- small - 5 20. switch big -5 21. 9 volt battery - 2 22. 9v battery connector -2 23. 555 timer ic -2 24. various leds 25. lead wires - 20 26. various resistors / potentiometer -2 27. various capacitors 28. various inductors 29. various transformers 30. variable resistors small 31. variable resistors big 32. small motor -2 33. coil 34. heat sensor -2 35. fuse -10 36. various transistors 37. various mosfets 38. various diodes 39. photo diodes 40. toggle switch 41. relay switch 42. screw terminal 43. Dip 8 pin 2 44. voltage regulator like transistors 45. Mutlimeter with oscillsope and capacitance 46. clampmeter 47. infrared thermometer 48. Optocoupler MOC3021, MOC3063 49. buck conveter 50. boost converter 51. bridge rectifier 52. MOV ( Metal oxide varistor) 53. 100 ohm resistor 54. 0.1uf x 2 capacitor 55. (Zener diode) 56. NTC Thermister 57. stand offs - pcb spacers 58. heat sink tubes 59. soldering iron 60. flux 61.solder wire 62. desoldering pump 63. wick 64. current transformer 65. mob 66. thick wires 16 amps 67. thermal fuse 68. thermostat 69. 16 amps switch 70. 16 amps fuse holder 71. heat resistant silicone wires 72. heat sink and cooling fan 73. oscilloscope 74. rccb switch 75. Lock for house 76. Keyboard and mouse 77. Mirror Big for hair cutting 78. insta debit card from airtel or fiino payment bank 79. clock with alaram 80. sun glass 81. stitching machine -- dress 82. hdmi- mini hdmi adapter 83. pan of small various sizes 84. iem in ear monitor 85. magnetic type c adapter two 4k, thunderbolt, video out, 100 watts 86. weigh scale 87. KVM Switch 88. portronics 13 in 1 89. Soldering kit 90. igbt 91. Linux hdmi adapter 92. creative blaster g5 dac 93. complete soldering kit 94. neon bulb 95. Isolation transformer (1:1, ≥2–3 kVA) 96. MCB (C-curve) – 6A, 10A, 16A 97. DC fuse holders (automotive blade type) 98. Earth leakage tester 99. Fire extinguisher (ABC type) 100. High-temperature Kapton tape 101. Silicone thermal paste 102.Battery BMS (with temp + current protection) 103. Battery terminal lugs (copper) 104. Pure sine wave inverter driver board (or SPWM module) 105. High current shunt resistor 106. 🔋 UPS-SPECIFIC (YOU’RE MISSING THESE)
+
+Very important for a real UPS (not just inverter):
+
+Deep-cycle battery (Lead-acid or LiFePO4)
+
+Battery balancer (if lithium)
+
+Battery BMS (with temp + current protection)
+
+High-current DC contactor
+
+Battery terminal lugs (copper)
+
+Battery voltage & current display meter
+
+Pure sine wave inverter driver board (or SPWM module)
+
+SG3525 / TL494 IC
+
+Gate driver IC (IR2110 / IRS2186 type)
+
+Snubber networks (RC + RCD)
+
+High current shunt resistor
+
+Pre-charge resistor circuit
+
+Soft-start module
+
+🔥 INDUCTION STOVE SPECIFIC (VERY IMPORTANT)
+
+Induction stoves are not dimmer-based, so these are missing:
+
+Induction work coil (litz wire coil)
+
+Ferrite core plates
+
+Series resonant polypropylene capacitors (MKP, 1–2kV)
+
+High-frequency current transformer
+
+IGBT gate resistors (non-inductive)
+
+Gate driver transformer
+
+High-speed diode (UF / FR type)
+
+EMI filter module (AC input)
+
+Common-mode choke
+
+NTC inrush current limiter (big size)
+
+Thermal pads for IGBT
+
+Copper bus bars
+
+Glass-fiber PCB (FR-4, ≥2oz copper)
+
+⚠️ Triac dimmers DO NOT WORK for induction heaters.
+
+You listed “various”, but these matter:
+
+Gate resistors (5Ω–47Ω, 1W)
+
+Power resistors (5W–50W)
+
+Film capacitors (polypropylene only)
+
+TVS diodes
+
+Schottky diodes
+
+Hall-effect current sensors (ACS758 type)
+
+Temperature IC sensors (DS18B20 / LM35)
+
+
+This is a very comprehensive list! It's great you're being so thorough. You've identified a lot of crucial components, especially in the general electronics and safety categories.
+
+Based on your list and your stated goal of making an induction stove and a UPS, here are the missing items, categorized by their specific application, along with some important clarifications and recommendations:
+
+🔋 UPS-SPECIFIC (You are missing these)
+These components are very important for building a functional and safe UPS, especially if you're aiming for a true UPS (not just a simple inverter):
+
+Deep-cycle battery (Lead-acid or LiFePO4): This is the core of your UPS for energy storage. The type depends on your budget and performance requirements.
+Battery balancer (if lithium): Essential for LiFePO4 batteries to ensure even charging and discharging of individual cells, prolonging battery life and preventing damage.
+Battery BMS (with temp + current protection): A Battery Management System is crucial for safety and optimal performance, especially for lithium batteries. It protects against overcharge, over-discharge, over-current, and over-temperature.
+High-current DC contactor: Needed to safely switch the battery's high current on and off, especially during fault conditions.
+Battery terminal lugs (copper): For making secure, low-resistance connections to the battery terminals.
+Battery voltage & current display meter: To monitor the battery's state of charge and discharge.
+Pure sine wave inverter driver board (or SPWM module): Your current list includes "buck converter" and "boost converter," but for a UPS, you will need a dedicated pure sine wave inverter driver to convert DC battery power into clean AC power for your appliances.
+SG3525 / TL494 IC: Common PWM controller ICs used in inverter designs.
+Gate driver IC (IR2110 / IRS2186 type): Essential for driving the MOSFETs or IGBTs in the inverter stage efficiently.
+Snubber networks (RC + RCD): Critical for protecting switching components (MOSFETs/IGBTs) from voltage spikes during operation.
+High current shunt resistor: For measuring the high DC current flowing to and from the battery, often used in conjunction with a current meter or BMS.
+Pre-charge resistor circuit: To limit inrush current when connecting the battery to the inverter, protecting components.
+Soft-start module: Gradually increases the output voltage on startup, reducing stress on connected loads and the inverter itself.
+🔥 INDUCTION STOVE SPECIFIC (Very important)
+Induction stoves operate on fundamentally different principles than traditional resistive heating or dimmer-controlled appliances. Therefore, several key components are missing from your list:
+
+Induction work coil (litz wire coil): This is the heart of the induction stove, responsible for generating the high-frequency magnetic field. Litz wire is preferred for its efficiency at high frequencies.
+Ferrite core plates: Used beneath the work coil to direct the magnetic field towards the cookware and improve efficiency.
+Series resonant polypropylene capacitors (MKP, 1–2kV): These are high-voltage, high-frequency capacitors specifically designed for resonant circuits in induction heaters. Standard capacitors will not work.
+High-frequency current transformer: To measure the high-frequency current flowing through the work coil for feedback and control.
+IGBT gate resistors (non-inductive): Crucial for controlling the switching speed of the IGBTs in the induction heating circuit.
+Gate driver transformer: Used to provide isolated gate drives for the high-side IGBTs in a half-bridge or full-bridge configuration.
+High-speed diode (UF / FR type): Needed for various purposes in the high-frequency circuit, such as in snubber networks or bridge rectifiers after the high-frequency stage (if applicable).
+EMI filter module (AC input): Induction stoves generate significant electromagnetic interference (EMI), so a robust input filter is essential to prevent interference with other appliances and comply with regulations.
+Common-mode choke: Part of the EMI filter, it helps suppress common-mode noise.
+NTC inrush current limiter (big size): To limit the large inrush current when the induction stove is first powered on.
+Thermal pads for IGBT: For efficient heat transfer from IGBTs to heatsinks.
+Copper bus bars: For making low-resistance, high-current connections between power components, especially in the output stage.
+Glass-fiber PCB (FR-4, ≥2oz copper): For the high-power section of the induction stove, a PCB with thicker copper traces (≥2oz) is necessary to handle the high currents and minimize losses.
+⚠️ Important Clarifications:
+Triac dimmers DO NOT WORK for induction heaters.
+You have listed several triac dimmers (items 2, 8, 10). While triacs are suitable for controlling the power to resistive loads or universal motors, they are not applicable for controlling induction heating elements. Induction heating relies on high-frequency switching and resonant circuits, which require components like IGBTs and specialized control. Using a triac dimmer with an induction coil would likely damage the components and not work as intended.
+
+You listed “various”, but these matter specifically for these projects:
+When dealing with power electronics and high-frequency circuits, the specific type and ratings of components are critical. While "various" is a good start, pay close attention to these:
+
+Gate resistors (5Ω–47Ω, 1W): These are specifically for IGBT/MOSFET gate drive circuits to control switching speed and prevent oscillations.
+Power resistors (5W–50W): For applications where significant power dissipation is expected, such as snubber circuits or current limiting.
+Film capacitors (polypropylene only): For resonant circuits and high-frequency applications, polypropylene film capacitors (MKP) are essential due to their low losses and high-frequency performance.
+TVS diodes: Transient Voltage Suppression diodes are critical for protecting sensitive electronics from voltage spikes.
+Schottky diodes: Used in switching power supplies for their fast recovery time and low forward voltage drop.
+Hall-effect current sensors (ACS758 type): For non-invasive and accurate measurement of high currents.
+Temperature IC sensors (DS18B20 / LM35): For precise temperature monitoring, crucial for safety and control in both the UPS (battery, inverter) and induction stove (IGBTs, coil, cookware detection).
+General Recommendations:
+Datasheets are your friends: For every critical component, especially power electronics, always consult the datasheet to understand its specifications, operating limits, and application notes.
+Safety first: You've included some safety gear, which is excellent. Remember that working with high voltages and currents can be dangerous. Always take appropriate precautions.
+Start with smaller, simpler projects: If you're new to power electronics, consider building simpler inverter or induction heater circuits before tackling a full-fledged UPS or high-power stove.
+Simulation software: Tools like SPICE can be invaluable for simulating your circuits before committing to hardware, helping you identify potential issues.
+Community and resources: Utilize online forums, communities, and educational resources dedicated to power electronics and DIY projects.
+Good luck with your ambitious and exciting projects!
+
+
+
+
+
+Type a message...
+
+
+
+
+
+
+
